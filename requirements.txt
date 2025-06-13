@@ -20,5 +20,5 @@ schedule==1.2.1
 requests==2.31.0
 openai==1.12.0
 ffmpeg-python==0.2.0
-openai-whisper @ git+https://github.com/openai/whisper.git
+openai-whisper 
 gunicorn==21.2.0
